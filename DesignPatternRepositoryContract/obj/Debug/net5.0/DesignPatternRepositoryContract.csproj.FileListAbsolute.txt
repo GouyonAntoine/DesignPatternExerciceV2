@@ -1,0 +1,11 @@
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\bin\Debug\net5.0\DesignPatternRepositoryContract.deps.json
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\bin\Debug\net5.0\DesignPatternRepositoryContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\bin\Debug\net5.0\ref\DesignPatternRepositoryContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\bin\Debug\net5.0\DesignPatternRepositoryContract.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.AssemblyInfoInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.AssemblyInfo.cs
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\ref\DesignPatternRepositoryContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepositoryContract\obj\Debug\net5.0\DesignPatternRepositoryContract.pdb

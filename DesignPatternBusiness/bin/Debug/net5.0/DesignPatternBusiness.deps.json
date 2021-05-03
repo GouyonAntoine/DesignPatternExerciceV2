@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesignPatternBusiness/1.0.0": {
+        "dependencies": {
+          "DesignPatternBusinessContract": "1.0.0",
+          "DesignPatternEntities": "1.0.0",
+          "DesignPatternRepository": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternBusiness.dll": {}
+        }
+      },
+      "DesignPatternBusinessContract/1.0.0": {
+        "dependencies": {
+          "DesignPatternEntities": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternBusinessContract.dll": {}
+        }
+      },
+      "DesignPatternEntities/1.0.0": {
+        "runtime": {
+          "DesignPatternEntities.dll": {}
+        }
+      },
+      "DesignPatternRepository/1.0.0": {
+        "dependencies": {
+          "DesignPatternEntities": "1.0.0",
+          "DesignPatternRepositoryContract": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternRepository.dll": {}
+        }
+      },
+      "DesignPatternRepositoryContract/1.0.0": {
+        "runtime": {
+          "DesignPatternRepositoryContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternBusinessContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternRepositoryContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

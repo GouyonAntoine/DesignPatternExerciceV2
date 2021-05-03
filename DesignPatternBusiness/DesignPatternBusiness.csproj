@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPatternBusinessContract\DesignPatternBusinessContract.csproj" />
+    <ProjectReference Include="..\DesignPatternModel\DesignPatternEntities.csproj" />
+    <ProjectReference Include="..\DesignPatternRepository\DesignPatternRepository.csproj" />
+  </ItemGroup>
+
+</Project>

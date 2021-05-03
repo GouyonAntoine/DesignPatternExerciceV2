@@ -1,0 +1,15 @@
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\DesignPatternBusinessContract.deps.json
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\DesignPatternBusinessContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\ref\DesignPatternBusinessContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\DesignPatternBusinessContract.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.csprojAssemblyReference.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.AssemblyInfoInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.AssemblyInfo.cs
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.csproj.CoreCompileInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\ref\DesignPatternBusinessContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\DesignPatternEntities.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\bin\Debug\net5.0\DesignPatternEntities.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternBusinessContract\obj\Debug\net5.0\DesignPatternBusinessContract.csproj.CopyComplete

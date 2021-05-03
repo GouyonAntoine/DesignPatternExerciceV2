@@ -1,0 +1,17 @@
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternRepository.deps.json
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternRepository.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\ref\DesignPatternRepository.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternRepository.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternEntities.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternRepositoryContract.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternEntities.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\bin\Debug\net5.0\DesignPatternRepositoryContract.pdb
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.csprojAssemblyReference.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.AssemblyInfoInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.AssemblyInfo.cs
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.csproj.CoreCompileInputs.cache
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.csproj.CopyComplete
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\ref\DesignPatternRepository.dll
+C:\Users\33627\source\repos\DesignPatternExerciceV2\DesignPatternRepository\obj\Debug\net5.0\DesignPatternRepository.pdb

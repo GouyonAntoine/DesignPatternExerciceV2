@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesignPatternBusinessContract/1.0.0": {
+        "dependencies": {
+          "DesignPatternEntities": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternBusinessContract.dll": {}
+        }
+      },
+      "DesignPatternEntities/1.0.0": {
+        "runtime": {
+          "DesignPatternEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternBusinessContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

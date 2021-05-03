@@ -1,0 +1,12 @@
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\bin\Debug\net5.0\DesignPatternModel.deps.json
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\bin\Debug\net5.0\DesignPatternModel.dll
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\bin\Debug\net5.0\ref\DesignPatternModel.dll
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\bin\Debug\net5.0\DesignPatternModel.pdb
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.csprojAssemblyReference.cache
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.AssemblyInfoInputs.cache
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.AssemblyInfo.cs
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.csproj.CoreCompileInputs.cache
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.dll
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\ref\DesignPatternModel.dll
+C:\Users\33627\source\repos\DesignPatternExercice\DesignPatternModel\obj\Debug\net5.0\DesignPatternModel.pdb
